@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 1.3
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ..  ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">1.3</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1">this is my long string</data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        [base64 mime encoded serialized .NET Framework object]
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        [base64 mime encoded string representing a byte array form of the .NET Framework object]
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used forserialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://ww .w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Image.Locked" type="System.Boolean, mscorlib, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="Image.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="Image.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>FamilyOrAssembly</value>
+  </data>
+  <data name="Image.Image" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        Qk02QAA      DY    o    QAA  E     BAC            DEDg  xA4             /v7+d// 
+        /4D// + //  gP/ /4D// + //  gP/                         6+v  Gtr     P    D     
+             P    D  Glp/4Dr6 + //  gP/ /4D// + //  gP/                                 
+        /4Dr  uAa/9rg D AI  /wC  P8Ag D AI  /wC af9pgOv 6                     u  /9r    
+        AI  /wC  /8Ag   AI  /wC  /9pg   8Y      9    LXh4YB1n5  XYmJ GWNjYBrf3  jZGRgNfT
+        0  29PR4    QP7+/t7+/v7u/v7+7v7+/u7+/v7u/v7+7v7+/u                              
+          6Ki   IyP  hMT  4TE/  ExP  iMj  6Jif    7+7v7+/u7+/v7u/v7+7v7+/u              
+        /u7+/v7u/v7+7v7+/u      7/7v7or+i 4j iP E/4T hP E+4T/hP I/4j7on+ie7u/u          
+        /u7+/v7u/v7v7v7+iu   iPu/v4T7v7 E+  /hPu/v4j7v7+ie  /e/u/vX17vfm6+ FsbHukX5+ n9s
+        bO6CcHDuenBw7o+Oju T1dXu9fX13v   3j                                             
+        //                      y8v  4uL  +Ag   gI  /4C  /+Ki   ysr                     
+        //                                                 L 8v i/+L    g +A    g +A  r 
+        i  K 8r                              8v   +L                    i    8r        U
+        1   mJz 8G9  9BPT  ERET wUlJ/59eXv+flpb  evr  f6+v +/v6L/v7+8                   
+        //                                            z8   z8   8vL   Ly   y8v  8     39
+        //                                                                      +v 6  D 
+        8P/u/+7/7  v  D 8P/z  P  v +//                             6    8P  /+7//  u    
+        7v    D    6   29P  j4   yco  8REf/7DAz/+QsL/+4PD/+yOjr mIeH 8 j4  y+Pj0/v7+g/  
+        /u3                                                                             
+        //                                                                              
+        //                                                                                        //                                  7e7//3V1 /8AA   AA  /wAA /8AA  8AA  tCkp/5B8          f  F3d3 8fn57v     +/v7t//                                                                //    7    5    9P    L    y   98   +fP  fbz  rz8  58   +fPz  f09P 39vb +vr6  7 
+        //                                                   v    n   r0   18vz 8 L5  Pz
+        9  39 f  Pz8                                             +3t//95ef  Bgb /wAA /8A
+        A   AA  9wAA 7w1Nf+fjY3 zeLi  P5+e7          f                                            //                         6 +/v2v Pz7r/w8Ou/8jGs  K  T yra0/8q0tP KtLT yrS0/8e0          tP+/tLT/w8LC 93f3  7+/v                                                 +vr /9ra
+        7 +6us  rq7D 7Gxxf+zs77/w8PE +Xl4                                              t
+         f  dXX /wAA /8AA   AA  /wAA /kAA  aUF  zLy8 +Xv7  4+/vu    gP7+/u3                       //                                 +/v  9vb  +fn+P+3t8n/h4eZ/3Z2iP99fo  f4iR/3+Q          kf9/kZH f5GR/3+Rkf99jo7 eYKC 5CRkf/Iw8f  PX8   6   79Pv +PL4  ny+f 39Pf 9/b3  r7          /P +/v3    3  j46P Jybf mZmH 4iIdv+Ki3r goV8 42Tkv+6wcP 6 Hy  P5+f z+fn 9Pf3 /b3
+        9  7+vr                  4mJ  8jI   FBT  xUV  8WFv  JCT  oeH   x8f 9/v7  f      
+           +/v7t//                                              9vb       +Dg/r Wlra zo6
+        u 8vL6  Mzy0 zV1tf81rLX/NbW1 zW1tf81tbX/Na6t/0eKiP99hIb/0LvF/  u   24Pb/0bvR/8Ou
+        w  FscX/v7S  8TCx  e4Oj +vvy    xf 6+oT 2tpa   7Ov+vry  ra42  qVVP91iH  iZ6r 63D
+        xv+0ysr tMfH 7S    CxMT 4N7e   6+v        f3   AwP  ior  4aG /+Ki   jIz  5WV   R
+        0f            7+/u7          f                                               +/v
+          +IiP  ISH+/wsL+f8GBvT BATy wUV8 8FfPP BePz wXz8 8F8 P BfPz wro6P81q63 fI2M 8W7          s  h69r/wNLA  qci 92iHb/eop6 3qCev+PkJb/xMLY  f25    5P  v4k//n5C  09Ab 8vIE +zr          C +8sz  jn5t  Jwg +OfIH kX9  459ff+Cenr kI+  8LExP 29 f        +/v  +vf  vXv  nv
+        6P 06u  8ujh  Pp4  18e3 +vn5  78 f + f u    gP7+/u3                                       //                 t f  dXX /wAA /8AA   AA  /wAA /8AC   AH  /wD2 /8A /  AP  /wD            /8A P  NLTB 2+Kgv+Ks3T fO11 2DhYP88vDz L68v zOrM 9Jikn/eoOB 7+01v 39OX   +B              Av  /wD  /8A /  AP  /QD 5qYb 8VNOv+0NEH tDQ3 7U1Nf+uNjb iklJ 4N6ev+0v7  9Pb3              //            r    a +//uuTP 67Yw +x2cX tMm /8bIx  q6Or +vn67v     +/v7t                  //                                      7e3//3t  /8JCf  AA  /wAA /8AA   AAv /wB9           /8A8P  A   /wD  /8A /  A/f9/0m8z 93mYr WrpE/xzzFf8M+gz BvUG/wTyBP8J5wn NKs0 3qK          gf Gsdz +PPn /  hf   wn  /8A /  AP  /wD   IA /2GAP 3Ggf 9AYI /MFBv zBQX 6AkJ 6s0          NP+Kenr scbG  P5+P             5    7v7 yb3P 5mOn +IfI7 ioCQ 4J9hv+Xlpf 1tjW /X2          9e7          f                                               +3t//97e   CAj /wAA           /8AA   AA  /wAH /8Aev  AOz /wD  /8A /  AP  /wD5/f9o2uf o8i2/2fZUP8A+gD AP8A/wD           AP8A/wD APwA/ym0Kf91iX3/xq3d  ny5    4H  /8B /  A   /wD  /8A / tA   ewD  wgA /8A
+        A   AA  /wAA /wAAP+0KSn/iXV1 63Gxv y Pn        5    v   +oP6/9pa2v+7Orv ry+v 6sz          q/+KSYr ioGK 8vWy  z9vPu    gP7+/u3                                                       // 19f7 ior5 x4e9P8LC L Cwvy/woK8 8KGvf D4X8 xTx/ 8V    Ff   xb  /8q    mfz+/9X4          5v+J+nT DP4F/wD AP8A/wD AP8A/wD6AP85vzn/ipyQ/9K95f 99+7    V    Jv   xL  /8S              Ev  7R  /3sE /8JAP  AA  /wAA /8AA  6AA  vzk5 5yKi +90tL 9/ 9//      8    4j   4h           v 5C n/9Ab0  IE8v nCef qzSr 5KBkv I3Mj 8vjy7v     +/v7t                                  //                         6 7Cw2v9ZWbr/RUWu/0ZGsf8 P7P/Rk7D 2Wk5f+G+   i    4v           //+M    l    9X    t  b h 98 wP AP8A/wD AP8A/wD AP8B/wH/W+Zb 8DUxP/w5fv    +              y    4z                   12 /91Nv  AA  /wAA /8AA   AA  /wEB/+ZbW /UwM  5fDw              //        D   90 /  A   /wD  /8A /  A   /A 8 7QptP+QfJD xd3F /H58e7          f            //                                 +/v  9vb  +bm+P+ursn/eHiZ/2VliP9paYr a2iC  F8          jf+ztLr  err +nz8  o8 P 5vT0 +j39  1/fz 8P x 4z i 8j/yP Ev8V xH+F 8M+RP FfMc/3bt
+        ff a6+H/8O71  b29  8 PT    y    8v    L    y   y4   ioL  yMi/ 8VEv +FxH/+RMM  Mc
+        Ff tfXb 6+Ha +/08P 2+Pb +/z7  7t v  ev  /wb  /8A /  AP  /wD   cA9 +8Nbz n42f/83i
+        zf z+fPu    gP7+/u3                                     9vb       +EhPr ZWXa 05O
+        u 9ERK  S0mt 2lfi +VgHX/wKCJ 9uyrf ftLT/3bS0 9S0tP XwsL 5+Dg/ P78 ++ 8D if+K    
+        i 98+p  W9px 0W7Wv91tIr sbrF  i5wf DxMb 5eXt//                           8TQ//+M          jP  ioD +o98/9pxW/+7WkX tIp1  rFsv+6w7n/w8jD +Dq4P  5 v  3z  /8A /  AP  /wD   8A          // 5APn 2lDa 8y8zP l7+X +Pv47v     +/v7t//                                    X1          //+MjP  IiL+/w4O+f8MDPT Cwvy/xIT7P9CS7z c4OO  qYgv+Ik47/hpGR  SOjv+AgoL lZGR 8jE
+        xP 5+vn +v 6  P 8v w +f 6PjX  jJpv+KmXj/gYpv  yOe +Dh33/jZOS  rBxv r8fj 8 n   P5          // 09   9vb8  vz9f/+7u   +bu  jX5  Jprj mXiK  pvgf+Ne4z hHuE 5GVkf/C1sL 9uf2  +S          //  Jf   xL  /8S    Ev   iH+  qD+v 47vj  P38  3+ e7          f                            //                      gI  /wAA /8AA   AA  /wAA /8AA / G1vm/zqxxf9BwbT N7i0 zW1          tf81ra3/SImJ 3qDg/ Eubn   7                Z   7mf/w2m /zrtO 7qvOf+urjf/ipVU 3WI          f/+Jnqv rcPG 7TKyv+0x8f tL+/ 8LJxf g8+j +//    a   6mv  2m w 7tOzv+vObr/qzWt  pJ          i +DfoP tMu0 /Tu9   xv    v                    K    xv             +/v u    gP  
+        /u3                                29 //3t  /3R0 /8LC   AA  /wAA /8AA   AAv /wF4           /8H5fj CPb0/wb08 8F8 P Cujo/zissP9/ipD x6uy /Tn9  88v7   P0   5jP   Sf   kR  r0          DP 28gf 7OsM 7yzO +Ofm3 gnCD 458gf+Rf3  jn19 4J5ef+RlpD xN3J /nw    m    ir   kR          // 0DPr 8gf2 +cJ6P+rNKv inqK 7HIsf z9 P   j    w    7v  /+7//  u    8P   /n               //           v     +/v7t//                         29 //v7   39   8     CQn /wAA           /8AA   AA  /wAJ /8Afv  APb /wD  /8A /  AP  /wD+/ 87u8X/hISY 7eInf Hqsf w67Q 825          vf k2Vv  PoA /  AP  /wD  /8A / 9AP mphv xU06 7Q0Qf+0NDf tTU1 601Nf+JSEj/hIJ6 7rc
+        xf 9 v    f  /8D /  AP  /wD  /8A / 8APz tCm0  l0if+txa3/8vry                              //                            7+/u7          f                               4iI          //8gIP  CAj /wEB /8AA   AQD+/wcC+P8LFvX/BoT5/wDx /8A /  AP  /wD   8B/fz N8e+ 2+S          gv+GgnH/f4p  3aIif+ImHf/wco8  n6A   /wD  /8A /  A  /8gD  YYA /caB /0Bgj 8wUG /MF          Bf oCgn/rDg1 4mGef+q3L  6OTu /mF+f  Dv  /wD  /8A /  AP  9wD3 7w1vP+Zhpn/uc25  T6
+        9                                                  +/v7u    gP7+/u3                       //           +3t//91df  AA  /wAA /8AA   AA  /wcC+P8rFdT/QT++ yyg0/8H8 j AP  /wD            /8A /  AP 8 xrnp 85xU3/QLU1 zWyNf8vrzv/Q7sx 6DgF  6/wD  /8A /  AP  /wD /+0A /97
+        A   CA  /wAA /8AA   AA  /gAA 7s7MP+CiW /gseb 7G8uf Za9n +w 7 /8A /  AP  /wD   oA          +v aUNr yLXI/9rl2v 5 Pn                                                  v      
+           +/v7t//                         u    fX3 /wwM /8AA   AA  /wAA /8KBvX/QDe  2CA          oP9Byb7 Cvn1/wD   8B/   B/j9/wv06v8M9IH CfYZ/wf0Bv8F8wX/BPIG xXzBf989Ab 5vcJ  37          E    xX   8X   0F   ggv /w8A /8AA   AA  /wAA /0BAv HN0  kHJ9 3qQj +Vepv yEHI  YK
+        9v 6BPr 9wn3  oO+v 9IP3 +oP6  jn+P 6 Pr  v +                                              //            7+/u7          f                           u7  4C  /8SEv  AA  /wAA           /8AA   Bwv4 ytf1P9AwL  K+vU/wf9+P8A /  B/j9/yvU6/9Bv8  J9ha/wD A/8A/wD AP8A/wD           AP8B/wD U94U/7bJQ  q3mr   +L    k     3   tL  8TC   AA  /wAA /8AA   AAT 5xpa 8M7          r +vRLr uTS9/9oa2v 0BvT 2hva 8hAyP ZZtn +of6  /G                                          //                                 +/v7u    gP7+/u3                          +7u            +Ag   EhL /wAA /8AA   AA  /wEQ/v8HfPj Cun1/wf9+P8B    AP  /wr1+f9Av8n YKC  z A          Nf8H+AP AP8A/wD AP8A/wD APcC zS7Mv+BlXn xbK9 +/t6P 58OP  uHS  93b   ER  /wAA /4B
+        A  6BQT 9wgY  YKg  2COb 8wj1 /QF9f 5Avn 8wXz  gwuP+VdJX t7u3  Tq9   +f                    //                                                       v   v     +/v7t                  //                 u    gI  /xIS /8AA   AA  /wAA /8AEv  AIX /wD2 /8A /  AP  /wD            /8H+PT K9Sh/0C/QP8r1BX B/gC/wD AP8A/wD AP8A/wDzCP8kr0T ZXyR 5aJzf+4q9z 2Zq6  p8          kv  P0r /wkK /8AA  5Bg  2iUb 8g3Sf eIKr /wD9 /8A /  AP  /wD   IE8v+pM6n/f4B  6fW          p /x /H//                                                                       
+        /u7          f                           u7  4C  /8SEv  AA  /wAA /8AA   ABH /wCB           /8A8P  A   /wD  /8A /  Af   wf4hP8K9Rb B/gC/wH+AP8A/wD Af8A/wn AP8Y9wf/S8I8/3yS          df+MipP m4WC 8hST  3GR7  wgM /8BAv  AA  8wwE  hHMP+VanX uUbF  cI+/  AP  /wD   8A          // 3A/f ujq6 5aKlv+30 f 9  0                                                                                 +/v7u    gP7+/u3                          +7u  +Ag   EhL /wAA           /8AA   AA  /wAR /8Af/  AO3 /wD  /8A /  AP  /wD  f8A/3r AP8J/wD AP8A/wD AP8A/wn           AP9A/wD fPsE 6HhIf+5xjz/urxF  2mMv aUR  +gAA /8AA   AA  /wAA /EOBP+pVjP/f4F  6dX          zP/xDvn /wD  /8A /  AP  /wL /+FU f Jtcn 2uXa /n8+f                                                                                 v   v     +/v7t                                     u    gI  /xIS /8AA   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD  /8A    AP9+/wD           D 8A/wD AP8A/wD AP8Q/wD d 8A/9  Af z+wT 9vcI  X1C  14wX/+XcA /4LA   AA  /wAA /8A
+        A  0Cwb uEc8/5Zqiv+3SN  9Av6 /8A / +AP7 +gT6  YY9v 1f X 9+f3  r8+v +                                                                                    7+/u7          f                                     u7  4C  /8SEv  AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD            /8A /  AP u/wD gP8A/xL AP8A/wD AP8A/wD Ev8A  r A   /wD  /8A /  A   /wD  /gA /+F
+        A   Ew  /wAA /8AA   AA  +QYL/9olWv IN7b 2iXl  kG/P  A   +QP5/9ob2v JScn 36vf  /8                                                                                                       +/v7u    gP7+/u3                          +7u  +Ag   EhL /wAA /8AA   AA  /wAR           /8Af/  AO3 /wD  /8A /  AP  /wD  v8A  D AP8S/wD AP8A/wD AP8A/xH AP+C/wD 8/8A /  
+        A   /wD  /8A / xAP  gg  /xIA /8AA   AA  /wAA /4BE  6BXr +Afm  oF/P +Af  /wD  /QF
+        9 +6Mrr mHiY  vHu  3+ f                                                         
+                                 v   v     +/v7t                           u    gI  /xIS
+         /8AA   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD  /8A    AP+A/wD Ev8A/wD AP8A/wD           AP8R/wD f/8A  3 A   /wD  /8A /  A   7gD  4AA /8SA   AA  /wAA /8AA   ABL /wCF /8A
+        9v  A   /wD  /8A / yBfL rzmv 4iIiP+u0K7/8vry                                                                                            7+/u7          f                                     u7  4C  /8SEv  AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD  /8A /  AP u/wD           gP8A/xL AP8A/wD AP8A/wD Ef8A/3  AP t/wD  /8A /  A   /wD  +4A /+AA   Eg  /wAA /8A
+        A   AA  /wAR /8Agf  APD /wD  /8A /  AP  8wXz  M2s +Ogo7 ssyy  P58                                                                                            +/v u    gP  
+        /u3                          +7u  +Ag   EhL /wAA /8AA   AA  /wAR /8Af/  AO3 /wD            /8A /  AP  /wD  v8A  D AP8S/wD AP8A/wD AP8A/xH AP9 /wD  f8A /  AP  /wD  /8A / u
+        A   gA  /xIA /8AA   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD  /MF8 +1NbX kX+R 7TK          tP z+fP//                                                                                 //           v     +/v7t//                         u    gI  /xIS /8AA   AA  /wAA           /8AEf  AH  /wDt /8A /  AP  /wD  /8A    AP+A/wD Ev8A/wD AP8A/wD AP8R/wD f/8A  3           A   /wD  /8A /  A   7gD  4AA /8SA   AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD  /8A
+         / zBfP tTW1 5F kf+0yrT 8 nz                                                              //                            7+/u7          f                           u7  4C            /8SEv  AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD  /8A /  AP u/wD gP8A/xL AP8A/wD           AP8A/wD Ef8A/3  AP t/wD  /8A /  A   /wD  +4A /+AA   Eg  /wAA /8AA   AA  /wAR /8A          f/  AO3 /wD  /8A /  AP  8wXz  U1tf+Rf5H tMq0  P58                                         //                                                 +/v7u    gP7+/u3                                    +7u  +Ag   EhL /wAA /8AA   AA  /wAR /8Af/  AO3 /wD  /8A /  AP  /wD            v8A  D AP8S/wD AP8A/wD AP8A/xH AP9 /wD  f8A /  AP  /wD  /8A / uA   gA  /xIA /8A          A   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD  /MF8 +1NbX kX+R 7TKtP z+fP                   //                                                                       v      
+           +/v7t//                         u    gI  /xIS /8AA   AA  /wAA /8AEf  AH  /wDt           /8A /  AP  /wD  /8A    AP+A/wD Ev8A/wD AP8A/wD AP8R/wD f/8A  3 AP  /wD  /8A /            A   7gD  4AA /8SA   AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD  /8A / zBfP tTW1 5F 
+        kf+0yrT 8 nz                                                                              //            7+/u7          f                           u7  4C  /8SEv  AA  /wAA           /8AA   ABH /wB  /8A f  AP  /wD  /8A /  AP u/wD gP8A/xL AP8A/wD AP8A/wD Ef8A/3            AP t/wD  /8A /  A   /wD  +4A /+AA   Eg  /wAA /8AA   AA  /wAR /8Af/  AO3 /wD  /8A           /  AP  8wXz  U1tf+Rf5H tMq0  P58                                                         //                                 +/v7u    gP7+/u3                          +7u            +Ag   EhL /wAA /8AA   AA  /wAR /8Af/  AO3 /wD  /8A /  AP  /wD  v8A  D AP8S/wD           AP8A/wD AP8A/xH AP9 /wD  f8A /  AP  /wD  /8A / uA   gA  /xIA /8AA   AA  /wAA /8A
+        Ef  AH  /wDt /8A /  AP  /wD  /MF8 +1NbX kX+R 7TKtP z+fP                                   //                                                       v   v     +/v7t                  //                 u    gI  /xIS /8AA   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD            /8A    AP+A/wD Ev8A/wD AP8A/wD AP8R/wD f/8A  3 AP  /wD  /8A /  A   7gD  4AA /8S          A   AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD  /8A / zBfP tTW1 5F kf+0yrT 8 nz              //                                                                              
+        /u7          f                           u7  4C  /8SEv  AA  /wAA /8AA   ABH /wB            /8A f  AP  /wD  /8A /  AP u/wD gP8A/xL AP8A/wD AP8A/wD Ef8A/3  AP t/wD  /8A /            A   /wD  +4A /+AA   Eg  /wAA /8AA   AA  /wAR /8Af/  AO3 /wD  /8A /  AP  8wXz  U1          tf+Rf5H tMq0  P58                                                                                            +/v7u    gP7+/u3                          +7u  +Ag   EhL /wAA           /8AA   AA  /wAR /8Af/  AO3 /wD  /8A /  AP  /wD  v8A  D AP8S/wD AP8A/wD AP8A/xH           AP9 /wD  f8A /  AP  /wD  /8A / uA   gA  /xIA /8AA   AA  /wAA /8AEf  AH  /wDt /8A           /  AP  /wD  /MF8 +1NbX kX+R 7TKtP z+fP                                                                                            v   v     +/v7t                                     u    gI  /xIS /8AA   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD  /8A    AP+A/wD           Ev8A/wD AP8A/wD AP8R/wD f/8A  3 AP  /wD  /8A /  A   7gD  4AA /8SA   AA  /wAA /8A
+        A   ABH /wB  /8A f  AP  /wD  /8A / zBfP tTW1 5F kf+0yrT 8 nz                                                                                            7+/u7          f                                     u7  4C  /8SEv  AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD            /8A /  AP u/wD gP8A/xL AP8A/wD AP8A/wD Ef8A/3  AP t/wD  /8A /  A   /wD  +4A /+A
+        A   Eg  /wAA /8AA   AA  /wAR /8Af/  AO3 /wD  /8A /  AP  8wXz  U1tf+Rf5H tMq0  P5          8                                                                                            +/v7u    gP7+/u3                          +7u  +Ag   EhL /wAA /8AA   AA  /wAR           /8Af/  AO3 /wD  /8A /  AP  /wD  v8A  D AP8S/wD AP8A/wD AP8A/xH AP9 /wD  f8A /  
+        AP  /wD  /8A / uA   gA  /xIA /8AA   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD  /MF
+        8 +1NbX kX+R 7TKtP z+fP                                                         
+                                 v   v     +/v7t                           u    gI  /xIS
+         /8AA   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD  /8A    AP+A/wD Ev8A/wD AP8A/wD           AP8R/wD f/8A  3 A   /wD  /8A /  A   7gD  4AA /8SA   AA  /wAA /8AA   ABH /wB  /8A
+         f  AP  /wD  /8A / zBfP tTW1 5F kf+0yrT 8 nz                                                                                            7+/u7          f                                     u7  4C  /8SEv  AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD  /8A /  AP u/wD           gP8A/xL AP8A/wD AP8A/wD Ef8A/3  AP t/wD  /8A /  A   /wD  +4A /+AA   Eg  /wAA /8A
+        A   AA  /wAR /8Af/  AO3 /wD  /8A /  AP  8wXz  U1tf+Rf5H tMq0  P58                                                                                            +/v u    gP  
+        /u3                          +7u  +Ag   EhL /wAA /8AA   AA  /wAR /8Af/  AO3 /wD            /8A /  AP  /wD  v8A  D AP8S/wD AP8A/wD AP8A/xH AP9 /wD  f8A /  AP  /wD  /8A / u
+        A   gA  /xIA /8AA   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD  /MF8 +1NbX kX+R 7TK          tP z+fP//                                                                                 //           v     +/v7t//                         u    gI  /xIS /8AA   AA  /wAA           /8AEf  AH  /wDt /8A /  AP  /wD  /8A    AP+A/wD Ev8A/wD AP8A/wD AP8R/wD f/8A  3           A   /wD  /8A /  A   7gD  4AA /8SA   AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD  /8A
+         / zBfP tTW1 5F kf+0yrT 8 nz                                                              //                            7+/u7          f                           u7  4C            /8SEv  AA  /wAA /8AA   ABH /wB  /8A f  AP  /wD  /8A /  AP u/wD gP8A/xL AP8A/wD           AP8A/wD Ef8A/3  AP t/wD  /8A /  A   /wD  +4A /+AA   Eg  /wAA /8AA   AA  /wAR /8A          f/  AO3 /wD  /8A /  AP  8wXz  Mzs +OfI7 ssmy  P58                                         //                                                 +/v7u    gP7+/u3                                    +7u  +Ag   EhL /wAA /8AA   AA  /wAR /8Af/  AO3 /wD  /8A /  AP  /wD            v8A  D AP8S/wD AP8A/wD AP8A/xH AP9 /wD  f8A /  AP  /wD  /8A / uA   gA  /xIA /8A          A   AA  /wAA /8AEf  AH  /wDt /8A /  AP  /wD  /IE8v+vL6  iHaI 67Grv y+PL                   //                                                                       v      
+           +/v7t//                         u    fX3 /wwM /8AA   AA  /wAA /8AC/  AHz /wDt           /8A /  AP  /wD  /8A    AP99/wD DP8A/wD AP8A/wD AP8L/wD fP8A  3 AP  /wD  /8A /            A   7gD  30A /8MA   AA  /wAA /8AA   AAv /wB8 /8A f  AP  /wD  /8A / 0APT uje6 5mG
+        mf+5zrn 9Pn0                                                                              //            7+/u7          f                           e3//3V1 /8AA   AA  /wAA           /8AA   AA  /wB0 /8A6   AP  /wD  /8A /  AP t/wD df8A/wD AP8A/wD AP           3T           AP r/wD  /8A /  AP  /wD /+0A /91A   AA  /wAA /8AA   AA  /wAA /8Ad   AOv /wD  /8A           /  AP  +QD5/9pQ2v Itcj 2uXa /n8+f                                                        //                                 +/v7u    gP7+/u3                          +/v
+          +Jif  IyP /xIS /8SEv  EhL /xIi /8SiP  Eu7  xL  /8S    Ev   xL 7/8S 4n Ev8j xL           Ev8S xL Ev8S yL Ev+I xL 7v8S    Ev   xL  /8S   vEv  iRL  yMS /8SEv  EhL /xIS /8S
+        Iv  Eoj  xLu  8S    Ev   xL  /4h/v 6g/r +Of4  r8+v +                                      //                                                       v   v     +/v7t                  //                 39  /wM  /4mJ  +Ag   gI  /4C  /+Aif  gL     2                                f    A    if      g +A    g +J    v     b                     9    8C  /+J          g   gI  /4C  /+Ag   gIn /4C/ /+A9v                  i    8b                               //                                                                              
+        /u7          f                                f3   w8P   u7  +7u   u    7u   +73             u    7v  /+7//  u    7v +/+7/9  u  D 7v u/+7 7v u/+7    u  f 7v +/+7//  u    
+        7v   +7// 7u   37v  8O7  +7u   u    7u7  +7v   u9   7v7 /+7//  u    7v    D    5          //                                                                                                           +/v7u    gP7+/u3                                                       //                                                                                        //                                                                                        //                                                                                        //                                       v   v     +/v7t                                                                                                                                                                                                                                                                                                                                                                              7+/u7          f                                                                                                                                                                                                                                                                                                                                                                                       +/v7u    gP7+/vP//                                                                                                                                                                                                                                                                                                                                                                               9P7+/oP                                                                                                                                                                                                                                                                                                                                                                                        +/v6L/v7+3P7+/u3+/v7t     f            /u3+/v7t     f  /u3+/v7t     f                                                            /u3+/v7t     f  /u3+/v7t     f                                                                                                                                                                                                                             d    dw==  </value>
+  </data>
+  <data name="Look_Down.Locked" type="System.Boolean, mscorlib, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="Look_Down.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="Look_Down.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>FamilyOrAssembly</value>
+  </data>
+  <data name="$this.Name">
+    <value>Start</value>
+  </data>
+  <data name="$this.TrayLargeIcon" type="System.Boolean, mscorlib, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="$this.Locked" type="System.Boolean, mscorlib, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="$this.SnapToGrid" type="System.Boolean, mscorlib, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </data>
+  <data name="$this.DrawGrid" type="System.Boolean, mscorlib, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </data>
+  <data name="$this.TrayHeight" type="System.Int32, mscorlib, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>80</value>
+  </data>
+  <data name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>(Default)</value>
+  </data>
+  <data name="$this.Localizable" type="System.Boolean, mscorlib, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </data>
+  <data name="$this.DefaultModifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Private</value>
+  </data>
+  <data name="$this.GridSize" type="System.Drawing.Size, System.Drawing, Version=1.0.500 .0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>8, 8</value>
+  </data>
+</root>
